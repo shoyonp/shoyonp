@@ -1,6 +1,6 @@
-<img align="center" src="https://via.placeholder.com/1200x300?text=Welcome+to+Shoyon's+Profile" alt="Banner Image" />
+<img align="center" src="[https://via.placeholder.com/1200x300?text=Welcome+to+Shoyon's+Profile](https://i.ibb.co.com/FznQ1yw/Black-and-White-Creative-Profile-Information-Linked-In-Article-Cover-Image.png)" alt="Banner Image" />
 
-<h1 align="center">Hi, I'm Shoyon Kumar 👋</h1>
+<h1 align="center">Hi, I'm Shoyon 👋</h1>
 <h3 align="center">A Passionate Web Developer</h3>
 
 ---
@@ -40,11 +40,12 @@ Feel free to reach out or connect on my social platforms:
 ---
 
 ### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shoyon-Kumar&show_icons=true&theme=radical&hide=contribs" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoyon-Kumar&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com/?user=Shoyon-Kumar&theme=radical" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shoyonp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shoyonp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 ---
 
