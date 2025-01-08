@@ -1,56 +1,48 @@
-<img align="center" src="[https://via.placeholder.com/1200x300?text=Welcome+to+Shoyon's+Profile](https://i.ibb.co.com/FznQ1yw/Black-and-White-Creative-Profile-Information-Linked-In-Article-Cover-Image.png)" alt="Banner Image" />
-
-<h1 align="center">Hi, I'm Shoyon 👋</h1>
-<h3 align="center">A Passionate Web Developer</h3>
-
----
-
-### 👨‍💻 About Me
-I am a web developer with a strong passion for creating responsive, user-friendly, and efficient websites. My journey in web development is fueled by curiosity and a love for solving problems through code.  
-
-Currently, I am:  
-- Exploring **NEXT.js** to expand my knowledge of modern front-end frameworks.  
-- Working on a **tourism website** to enhance user experience for travelers.  
-- Experimenting with **backend technologies** like **Node.js** and **Express.js**.  
-
----
-
-### 💻 Skills  
-Here’s what I bring to the table:  
-
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://i.ibb.co.com/FznQ1yw/Black-and-White-Creative-Profile-Information-Linked-In-Article-Cover-Image.png" alt="Shoyon Kumar Banner" width="100%" />
+</div>
+
+<h1 align="center">Hi, I'm Shoyon Kumar 👋</h1>
+<h3 align="center">Web Developer</h3>
+
+---
+
+### About Me
+I am a passionate Web Developer who loves exploring new technologies and building dynamic web experiences. My journey revolves around crafting elegant, functional, and efficient solutions that meet user needs. Currently, I’m learning advanced frameworks and refining my skills in full-stack development.
+
+- 🌟 I’m exploring **Next.js** and **React Ecosystem**.
+- 🎯 Currently working on a **tourism website**.
+- 💻 Continuously honing my skills in **backend development**.
+
+---
+
+### Skills
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" alt="Express.js" title="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" alt="Firebase" title="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" alt="Tailwind CSS" title="Tailwind CSS" />
 </div>
 
 ---
 
-### 🌐 Connect with Me  
-Feel free to reach out or connect on my social platforms:  
-
-- **LinkedIn**: [Shoyon Kumar](https://www.linkedin.com/in/shoyon-kumar-668210345/)  
-- **Facebook**: [Shoyon Kumar](https://www.facebook.com/SHOYONKUMAR143)  
-- **Instagram**: [gloomy_0016](https://www.instagram.com/gloomy_0016/)  
-
----
-
-### 📊 GitHub Stats  
+### 📊 Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shoyonp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shoyonp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=shoyonp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shoyonp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
-###
+---
+
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoyon-kumar-668210345/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/SHOYONKUMAR143)
 
 ---
 
-> “Coding is not just a profession, it’s a passion.”
-
----
-
-Feel free to copy-paste this into your README file. Let me know if you'd like to tweak it further!
+<div align="center">
+  <strong>📧 Contact me: shoyonkumar143.com | 📱 +880 17458 01332</strong>
+</div>
