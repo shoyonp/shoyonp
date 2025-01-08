@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co.com/FznQ1yw/Black-and-White-Creative-Profile-Information-Linked-In-Article-Cover-Image.png" alt="Shoyon Kumar Banner" width="100%" />
 </div>
 
-<h1 align="center">Hi, I'm Shoyon Kumar 👋</h1>
+<h1 align="center">Hey there, I'm Shoyon 👋</h1>
 <h3 align="center">A Passionate Web Developer</h3>
 
 ---
