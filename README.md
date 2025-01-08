@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi, I'm Shoyon Kumar 👋</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">A Passionate Web Developer</h3>
 
 ---
 
@@ -17,6 +17,8 @@ I am a passionate Web Developer who loves exploring new technologies and buildin
 ---
 
 ### Skills
+Here’s what I bring to the table:  
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -48,6 +50,8 @@ I am a passionate Web Developer who loves exploring new technologies and buildin
 ---
 
 ### 🌐 Connect with Me
+Feel free to reach out or connect on my social platforms:  
+
 <div align="left">
   <a href="https://www.linkedin.com/in/shoyon-kumar-668210345/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
