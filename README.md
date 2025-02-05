@@ -10,37 +10,28 @@
 ## 🚀 About Me
 I am a passionate **Full-Stack Web Developer** who loves exploring new technologies and building dynamic web experiences. My journey revolves around crafting elegant, functional, and efficient solutions that meet user needs. Currently, I’m learning advanced frameworks and refining my skills in full-stack development.
 
-- 🚀 Diving deeper into **Next.js & Modern Web Development**.
-- 🌐 Building an innovative **Tourism & Travel Platform**.
-- ⚡ Enhancing my expertise in **Full-Stack Development & Scalable APIs**.
-- 🤝 Seeking exciting **collaborations & freelance opportunities**.
+- 🔥 Exploring **Next.js** and **React Ecosystem**.
+- 🌍 Currently working on a **Tourism Website**.
+- 🛠 Honing my skills in **Backend Development & API Integrations**.
+- 💡 Always open to **collaborations & new opportunities**.
+- 🎉 Fun Fact: I can spend hours perfecting a single CSS animation!
 
 ---
 
 ## 💻 Tech Stack
 ### **Frontend**
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind" height="40" alt="Frontend Stack" />
 </div>
 
 ### **Backend & Database**
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" height="40" alt="Backend Stack" />
 </div>
 
 ### **Tools & DevOps**
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" height="40" alt="Tools" />
 </div>
 
 ---
@@ -63,9 +54,6 @@ Feel free to reach out or connect on my professional platforms:
   </a>
   <a href="mailto:shoyonkumar143@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail"  />
-  </a>
-  <a href="https://github.com/shoyonp" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="GitHub"  />
   </a>
   <a href="https://www.facebook.com/SHOYONKUMAR143" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook"  />
