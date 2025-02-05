@@ -37,29 +37,30 @@ I am a passionate **Full-Stack Web Developer** who loves exploring new technolog
 
 ## 📊 GitHub Stats
 <div align="center">
-  <!-- First Image: Streak -->
+  <!-- First Image: Streak on top -->
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=shoyonp&theme=highcontrast&hide_border=true" 
+    <img src="https://streak-stats.demolab.com?user=shoyonp&theme=highcontrast" 
          alt="GitHub Streak" 
-         style="border: 2px solid #ff6347; height: 200px; width: 400px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+         height="200" 
+         width="400" />
   </a>
+  
+  <!-- Line break to separate the images -->
   <br><br>
-
-  <!-- Second Image: GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=shoyonp&show_icons=true&count_private=true&theme=radical&hide_border=false" 
-       height="200" 
-       width="400" 
-       alt="GitHub Stats" 
-       style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
-  <br><br>
-
-  <!-- Third Image: Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoyonp&layout=compact&theme=radical&hide_border=false" 
-       height="200" 
-       width="400" 
-       alt="Top Languages" 
-       style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+  
+  <!-- Second and Third Images: Stats and Languages, forming a triangle -->
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=shoyonp&show_icons=true&count_private=true&theme=radical&hide_border=false" 
+         height="200" 
+         width="400" 
+         alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoyonp&layout=compact&theme=radical&hide_border=false" 
+         height="200" 
+         width="400" 
+         alt="Top Languages" />
+  </div>
 </div>
+
 
 
 
