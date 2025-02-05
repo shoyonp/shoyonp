@@ -28,7 +28,7 @@ I am a passionate **Full-Stack Web Developer** who loves exploring new technolog
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" height="40" alt="Backend Stack" />
 </div>
 
-### **Tools & DevOps**
+### **Tools**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" height="40" alt="Tools" />
 </div>
