@@ -37,12 +37,30 @@ I am a passionate **Full-Stack Web Developer** who loves exploring new technolog
 
 ## 📊 GitHub Stats
 <div align="center">
+  <!-- First Image: Streak -->
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=shoyonp&theme=highcontrast&hide_border=true" alt="GitHub Streak" style="height: 150px; width: 300px;" />
+    <img src="https://streak-stats.demolab.com?user=shoyonp&theme=highcontrast&hide_border=true" 
+         alt="GitHub Streak" 
+         style="border: 2px solid #ff6347; height: 200px; width: 400px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=shoyonp&show_icons=true&count_private=true&theme=radical&hide_border=false" height="150" width="300" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoyonp&layout=compact&theme=radical&hide_border=false" height="150" width="300" alt="Top Languages" />
+  <br><br>
+
+  <!-- Second Image: GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shoyonp&show_icons=true&count_private=true&theme=radical&hide_border=false" 
+       height="200" 
+       width="400" 
+       alt="GitHub Stats" 
+       style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+  <br><br>
+
+  <!-- Third Image: Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoyonp&layout=compact&theme=radical&hide_border=false" 
+       height="200" 
+       width="400" 
+       alt="Top Languages" 
+       style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
 </div>
+
 
 
 ---
