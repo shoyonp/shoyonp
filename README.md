@@ -37,7 +37,7 @@ I am a passionate **Full-Stack Web Developer** who loves exploring new technolog
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoyonp&theme=radical&hide_border=false" height="150" alt="streak stats"  />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shoyonp&theme=highcontrast" alt="GitHub Streak" /></a>  
   <img src="https://github-readme-stats.vercel.app/api?username=shoyonp&show_icons=true&count_private=true&theme=radical&hide_border=false" height="150" alt="GitHub Stats"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoyonp&layout=compact&theme=radical&hide_border=false" height="150" alt="Top Languages"  />
 </div>
