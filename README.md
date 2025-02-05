@@ -11,8 +11,7 @@
 I am a passionate **Full-Stack Web Developer** who loves exploring new technologies and building dynamic web experiences. My journey revolves around crafting elegant, functional, and efficient solutions that meet user needs. Currently, I’m learning advanced frameworks and refining my skills in full-stack development.
 
 - 🔥 Exploring **Next.js** and **React Ecosystem**.
-- 🌍 Currently working on a **Tourism Website**.
-- 🛠 Honing my skills in **Backend Development & API Integrations**.
+- 🛠  Honing my skills in **Backend Development & API Integrations**.
 - 💡 Always open to **collaborations & new opportunities**.
 - 🎉 Fun Fact: I can spend hours perfecting a single CSS animation!
 
