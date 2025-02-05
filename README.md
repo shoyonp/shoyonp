@@ -17,7 +17,7 @@ I am a passionate **Full-Stack Web Developer** who loves exploring new technolog
 
 ---
 
-## 💻 Tech Stack
+## 💻 Skills
 ### **Frontend**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind" height="40" alt="Frontend Stack" />
@@ -35,24 +35,18 @@ I am a passionate **Full-Stack Web Developer** who loves exploring new technolog
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 <div align="center">
   <!-- First Image: Streak on top -->
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=shoyonp&theme=highcontrast&hide_border=true" 
          alt="GitHub Streak" />
   </a>
-    <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=shoyonp&show_icons=true&count_private=true&theme=radical&hide_border=false" 
-       height="200" 
-       width="400" 
-       alt="GitHub Stats" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoyonp&layout=compact&theme=radical&hide_border=false" 
-       alt="Top Languages"  />
-  </div>
+    <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shoyonp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shoyonp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-
+</div>
 
 
 ---
