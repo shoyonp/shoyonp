@@ -42,16 +42,12 @@ I am a passionate **Full-Stack Web Developer** who loves exploring new technolog
     <img src="https://streak-stats.demolab.com?user=shoyonp&theme=highcontrast&hide_border=true" 
          alt="GitHub Streak" />
   </a>
-  
-  <br><br>
     <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=shoyonp&show_icons=true&count_private=true&theme=radical&hide_border=false" 
        height="200" 
        width="400" 
        alt="GitHub Stats" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoyonp&layout=compact&theme=radical&hide_border=false" 
-       height="200" 
-       width="400" 
        alt="Top Languages"  />
   </div>
 </div>
