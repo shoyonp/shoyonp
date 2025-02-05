@@ -3,76 +3,77 @@
 </div>
 
 <h1 align="center">Hey there, I'm Shoyon 👋</h1>
-<h3 align="center">A Passionate Web Developer</h3>
+<h3 align="center">A Passionate Web Developer | MERN Stack Enthusiast</h3>
 
 ---
 
-### About Me
-I am a passionate Web Developer who loves exploring new technologies and building dynamic web experiences. My journey revolves around crafting elegant, functional, and efficient solutions that meet user needs. Currently, I’m learning advanced frameworks and refining my skills in full-stack development.
+## 🚀 About Me
+I am a passionate **Full-Stack Web Developer** who loves exploring new technologies and building dynamic web experiences. My journey revolves around crafting elegant, functional, and efficient solutions that meet user needs. Currently, I’m learning advanced frameworks and refining my skills in full-stack development.
 
-- 🌟 I’m exploring **Next.js** and **React Ecosystem**.
-- 🎯 Currently working on a **tourism website**.
-- 💻 Continuously honing my skills in **backend development**.
+- 🚀 Diving deeper into **Next.js & Modern Web Development**.
+- 🌐 Building an innovative **Tourism & Travel Platform**.
+- ⚡ Enhancing my expertise in **Full-Stack Development & Scalable APIs**.
+- 🤝 Seeking exciting **collaborations & freelance opportunities**.
 
 ---
 
-### Skills
-Here’s what I bring to the table:  
-
+## 💻 Tech Stack
+### **Frontend**
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="Tailwind CSS" />
 </div>
 
-###
-
----
-
-### 📊 Stats
-
+### **Backend & Database**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shoyonp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shoyonp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
 </div>
 
-###
+### **Tools & DevOps**
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+</div>
 
 ---
 
-### 🌐 Connect with Me
-Feel free to reach out or connect on my social platforms:  
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoyonp&theme=radical&hide_border=false" height="150" alt="streak stats"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=shoyonp&show_icons=true&count_private=true&theme=radical&hide_border=false" height="150" alt="GitHub Stats"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoyonp&layout=compact&theme=radical&hide_border=false" height="150" alt="Top Languages"  />
+</div>
+
+---
+
+## 🌐 Connect with Me
+Feel free to reach out or connect on my professional platforms:
 
 <div align="left">
   <a href="https://www.linkedin.com/in/shoyon-kumar-668210345/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"  />
   </a>
-  <a href="shoyonkumar143@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:shoyonkumar143@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail"  />
+  </a>
+  <a href="https://github.com/shoyonp" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="GitHub"  />
   </a>
   <a href="https://www.facebook.com/SHOYONKUMAR143" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/gloomy_0016/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook"  />
   </a>
 </div>
 
-###
 ---
 
 <div align="center">
-  <strong>📧 Contact me: shoyonkumar143.com | 📱 +880 17458 01332</strong>
+  <strong>📧 Contact me: shoyonkumar143@gmail.com | 📱 +880 17458 01332</strong>
 </div>
