@@ -61,7 +61,7 @@ Feel free to reach out or connect on my professional platforms:
   <a href="mailto:shoyonkumar143@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail"  />
   </a>
-  <a href="https://www.facebook.com/SHOYONKUMAR143" target="_blank">
+  <a href="https://www.facebook.com/ShoyonP" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook"  />
   </a>
 </div>
