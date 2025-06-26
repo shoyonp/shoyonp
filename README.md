@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/FznQ1yw/Black-and-White-Creative-Profile-Information-Linked-In-Article-Cover-Image.png" alt="Shoyon Kumar Banner" width="100%" />
+  <img src="[https://i.ibb.co.com/FznQ1yw/Black-and-White-Creative-Profile-Information-Linked-In-Article-Cover-Image.png](https://i.ibb.co/j9Xw8g7W/Black-Minimalist-Corporate-Business-Personal-Profile-Linked-In-Banner.png)" alt="Shoyon Kumar Banner" width="100%" />
 </div>
 
 <h1 align="center">Hey there, I'm Shoyon 👋</h1>
