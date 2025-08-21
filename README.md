@@ -2,22 +2,22 @@
   <img src="https://i.ibb.co/j9Xw8g7W/Black-Minimalist-Corporate-Business-Personal-Profile-Linked-In-Banner.png" alt="Shoyon Kumar Banner" width="100%" />
 </div>
 
-<h1 align="center">Hey there, I'm Shoyon 👋</h1>
+<h1 align="center">Hey there, I'm Shoyon</h1>
 <h3 align="center">A Passionate Web Developer | MERN Stack Enthusiast</h3>
 
 ---
 
-## 🚀 About Me
+##  About Me
 I am a passionate **Full-Stack Web Developer** who loves exploring new technologies and building dynamic web experiences. My journey revolves around crafting elegant, functional, and efficient solutions that meet user needs. Currently, I’m learning advanced frameworks and refining my skills in full-stack development.
 
-- 🔥 Exploring **Next.js** and **React Ecosystem**.
-- 🛠  Honing my skills in **Backend Development & API Integrations**.
-- 💡 Always open to **collaborations & new opportunities**.
-- 🎉 Fun Fact: I can spend hours perfecting a single CSS animation!
+-  Exploring **Next.js** and **React Ecosystem**.
+-  Honing my skills in **Backend Development & API Integrations**.
+-  Always open to **collaborations & new opportunities**.
+-  Fun Fact: I can spend hours perfecting a single CSS animation!
 
 ---
 
-## 💻 Skills
+##  Skills
 ### **Frontend**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind" height="40" alt="Frontend Stack" />
@@ -35,7 +35,7 @@ I am a passionate **Full-Stack Web Developer** who loves exploring new technolog
 
 ---
 
-## 📊 Stats
+##  Stats
 <div align="center">
   <!-- First Image: Streak on top -->
   <a href="https://git.io/streak-stats">
@@ -51,7 +51,7 @@ I am a passionate **Full-Stack Web Developer** who loves exploring new technolog
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 Feel free to reach out or connect on my professional platforms:
 
 <div align="left">
@@ -69,5 +69,5 @@ Feel free to reach out or connect on my professional platforms:
 ---
 
 <div align="center">
-  <strong>📧 Contact me: shoyonkumar143@gmail.com | 📱 +880 17458 01332</strong>
+  <strong> Contact me: shoyonkumar143@gmail.com || +880 17458 01332</strong>
 </div>
