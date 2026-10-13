@@ -100,7 +100,7 @@ const shoyon = {
 
 <br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shoyonp&bg_color=000000&color=E50914&line=E50914&point=FFFFFF&area=true&area_color=E50914&hide_border=true&radius=12" width="100%" alt="Contribution Graph" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoyonp&bg_color=000000&color=E50914&line=E50914&point=FFFFFF&area=true&area_color=E50914&hide_border=true&radius=12" width="100%" alt="Contribution Graph" /> -->
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:E50914,100:000000&height=2" width="100%" alt="divider" />
