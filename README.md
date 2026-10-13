@@ -115,7 +115,7 @@ const shoyon = {
   <a href="mailto:shoyonkumar143@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Send_a_message-E50914?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Gmail" />
   </a>
-  <a href="www.linkedin.com/in/shoyon16">
+  <a href="https://www.linkedin.com/in/shoyon16">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=E50914&labelColor=000000" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/ShoyonP">
